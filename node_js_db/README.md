@@ -1,9 +1,9 @@
-# platziverse-db
+# node_js
 
 ## Usage
 
 ``` js
-const setupDatabase = requiere('platziverse-db')
+const setupDatabase = requiere('node_js')
 
 setupDatabase(config).then(db => {
   const { Agent, Metric } = db
